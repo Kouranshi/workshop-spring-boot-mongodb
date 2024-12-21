@@ -4,6 +4,6 @@ Ferramentas Utilizadas:
 
 Spring Boot
 MongoDB
-Spring Data MongoDB
+(Spring Data MongoDB)
 Maven
 Java
